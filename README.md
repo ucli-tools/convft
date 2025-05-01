@@ -43,7 +43,7 @@ https://github.com/mik-tf/convft
 You can install ConvFT directly from this repository:
 
 ```bash
-git clone https://github.com/Mik-TF/convft.git
+git clone https://github.com/ucli-tools/convft.git
 cd convft
 sudo bash convft.sh install
 ```
